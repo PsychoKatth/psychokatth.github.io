@@ -7,3 +7,15 @@ p {
 h1 {
     color: lightpink;
   }
+a:link {
+    color: mediumorchid;
+}
+a:visited {
+    color: mediumslateblue;
+}
+a:hover {
+    color: mediumorchid;
+}
+a:active {
+    color: mediumslateblue;
+}
