@@ -7,6 +7,9 @@ p {
 h1 {
     color: lightpink;
   }
+h3 {
+    color: mediumslateblue;
+}
 a:link {
     color: mediumorchid;
 }
