@@ -2,5 +2,8 @@ html {
     background-image: url("background.png") no-repeat center center fixed;
      }
 p {
-    color: #ffa1e0;
+    color: lightpink;
+  }
+h1 {
+    color: lightpink;
   }
