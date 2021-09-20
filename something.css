@@ -19,3 +19,12 @@ a:hover {
 a:active {
     color: mediumslateblue;
 }
+
+#float-right {
+    float: right;
+    margin-right: 500px;
+}
+#float-left {
+    float: left;
+    margin-left: 500px;
+}
