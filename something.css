@@ -1,3 +1,6 @@
 html {
     background-image: url("background.png") no-repeat center center fixed;
      }
+p {
+    color: #ffa1e0;
+  }
